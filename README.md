@@ -24,8 +24,11 @@
   <img align="center" alt="Lucas-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   
-  <img align="right" alt="Lucas-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Lucas-yoda" src="https://discord.com/channels/829482448194109440/829482448680255490/871147175000809512/matrix.gif">
+  
 </div>
+
+##
 
 <div> 
     <a href="https://www.facebook.com/profile.php?id=100052386890270" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit" target="_blank"></a>
