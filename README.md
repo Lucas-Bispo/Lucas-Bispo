@@ -28,6 +28,7 @@
 </div>
 
 <div> 
+    <a href="https://www.facebook.com/profile.php?id=100052386890270" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UCdxYssbutqSZOjr7BsWi9Aw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/lucas_bispo_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <!---<a href="https://www.twitch.tv/user" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
