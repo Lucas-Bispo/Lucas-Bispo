@@ -57,3 +57,6 @@ Here are some ideas to get you started:
 -->
 ##   Here is a random joke that'll make you laugh!
  ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+ ## 5. Profile View Counter
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
