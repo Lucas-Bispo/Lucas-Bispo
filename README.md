@@ -1,4 +1,13 @@
-### Bem Vindo 👋
+### Bem Vindo ao meu perfil 👋 !!
+
+### Aqui estão algumas idéias para você começar:
+
+### - 🔭 Atualmente estou trabalhando em como Gerente de T.I na SEDUC Crisopólis - BA.
+### - 🌱 Atualmente estou aprendendo Cloud Computing.
+### - 👯 Estou procurando colaborar em projetos sociais.
+### - 🤔 Estou procurando ajuda com Estágios e Freelance. 
+### - 📫 Como chegar até mim: No Botao do G-mail você entra em contato comigo  
+### - ⚡ Curiosidade: Inteligencia Artificial
 
 <!--
 **Lucas-Bispo/Lucas-Bispo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,21 +51,6 @@
   ![Snake animation](https://github.com/Lucas-Bispo/Lucas-Bispo/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<!--
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-##   Here is a random joke that'll make you laugh!
  ![Jokes Card](https://readme-jokes.vercel.app/api)
-
- ## 5. Profile View Counter
- ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
