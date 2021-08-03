@@ -2,11 +2,11 @@
 
 ### Aqui estão algumas idéias para você começar:
 
-### - 🔭 Atualmente estou trabalhando em como Gerente de T.I na SEDUC Crisopólis - BA.
+### - 🔭 Atualmente estou trabalhando como Gerente de T.I na SEDUC Crisopólis - BA.
 ### - 🌱 Atualmente estou aprendendo Cloud Computing.
 ### - 👯 Estou procurando colaborar em projetos sociais.
 ### - 🤔 Estou procurando ajuda com Estágios e Freelance. 
-### - 📫 Como chegar até mim: No Botao do G-mail você entra em contato comigo  
+### - 📫 Como chegar até mim: No Botao do G-mail você entrar em contato comigo  
 ### - ⚡ Curiosidade: Inteligencia Artificial
 
 <!--
