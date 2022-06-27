@@ -4,8 +4,7 @@
 
 ### - 🔭 Atualmente estou em especialização AWS e cybersecurity
 ### - 🌱 Atualmente estou aprendendo AZURE.
-### - 👯 Estou procurando colaborar em projetos sociais.
-### - 🤔 Estou procurando ajuda com Estágios e Freelance. 
+### - 🤔 Estou procurando ajuda com Estágios ou CLT. 
 ### - 📫 Como chegar até mim: No Botao do G-mail você entrar em contato comigo  
 ### - ⚡ Curiosidade: Inteligencia Artificial
 
