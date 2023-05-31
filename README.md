@@ -4,7 +4,7 @@
 
 ### - 🔭 Atualmente estou em especialização AWS e cybersecurity
 ### - 🌱 Atualmente estou aprendendo AZURE.
-### - 🤔 Estou procurando ajuda com Estágios ou CLT. 
+### - 🤔 Estou procurando evoluir para DevSecOps. 
 ### - 📫 Como chegar até mim: No Botao do G-mail você entrar em contato comigo  
 ### - ⚡ Curiosidade: Inteligencia Artificial
 
