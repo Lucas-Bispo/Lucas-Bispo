@@ -1,23 +1,26 @@
-### Bem Vindo ao meu perfil 👋 !!
+# Bem Vindo ao meu perfil 👋 !!
+
+<!-- Adicione uma div com um fundo animado -->
+<div style="position: relative; width: 100%; height: 200px; overflow: hidden;">
+  <img src="https://i.imgur.com/SE7XqYj.gif" alt="Matrix Background" style="position: absolute; top: 0; left: 0; width: 100%; height: auto; z-index: -1; opacity: 0.5;" />
+  <div style="position: relative; z-index: 1; color: white; text-align: center; padding-top: 50px;">
+    <h1 style="font-size: 2rem;">Lucas Bispo</h1>
+    <p>Desenvolvedor em evolução para DevSecOps</p>
+  </div>
+</div>
 
 ### Aqui estão algumas idéias para você começar:
+- 🔭 Atualmente estou em especialização AWS e cybersecurity
+- 🌱 Atualmente estou aprendendo AZURE.
+- 🤔 Estou procurando evoluir para DevSecOps. 
+- 📫 Como chegar até mim: No Botao do G-mail você entrar em contato comigo  
+- ⚡ Curiosidade: Inteligencia Artificial
 
-### - 🔭 Atualmente estou em especialização AWS e cybersecurity
-### - 🌱 Atualmente estou aprendendo AZURE.
-### - 🤔 Estou procurando evoluir para DevSecOps. 
-### - 📫 Como chegar até mim: No Botao do G-mail você entrar em contato comigo  
-### - ⚡ Curiosidade: Inteligencia Artificial
-
-<!--
-**Lucas-Bispo/Lucas-Bispo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
- <div>
+<div>
   <a href="https://github.com/Lucas-Bispo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Bispo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Bispo&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,10 +34,7 @@
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lucas-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  
- 
 </div>
-
 ##
 <div> 
     <a href="https://www.facebook.com/profile.php?id=100052386890270" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit" target="_blank"></a>
@@ -46,10 +46,7 @@
     <a href="https://www.linkedin.com/in/lucas-bispo-8b95a71b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://gitlab.com/lukaobispo" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
     
-
   ![Snake animation](https://github.com/Lucas-Bispo/Lucas-Bispo/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
 
  ![Jokes Card](https://readme-jokes.vercel.app/api)
