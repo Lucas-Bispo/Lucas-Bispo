@@ -1,10 +1,13 @@
-# Bem Vindo ao meu perfil 👋 !!
+# 👋 Olá, eu sou Lucas Bispo
+
+Sou um entusiasta da tecnologia em constante evolução, apaixonado por desenvolvimento de software e segurança cibernética (DevSecOps). Meu objetivo é criar soluções inovadoras que combinem eficiência, segurança e usabilidade. Quando não estou codando, gosto de explorar novas tecnologias, assistir séries de ficção científica e jogar videogames.
+
+🎮 Desenvolvedor | 🔒 DevSecOps | 🚀 Inovador | 💡 Criativo | 📊 Dados | 🌐 Web | 🛠️ Ferramentas
 
 <!-- Fundo animado estilo Matrix -->
 <div style="position: relative; width: 100%; height: 200px; overflow: hidden; background: black;">
   <img src="https://i.imgur.com/SE7XqYj.gif" alt="Matrix Background" 
        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.3;" />
-
   <div style="position: relative; z-index: 1; color: limegreen; text-align: center; padding-top: 50px;">
     <h1 style="font-size: 2rem; text-shadow: 0px 0px 10px limegreen;">Lucas Bispo</h1>
     <p>Desenvolvedor em evolução para DevSecOps</p>
@@ -26,7 +29,23 @@
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-##
+## 🏆 Projetos em Destaque
+
+- **[Nome do Projeto](link-do-projeto)**: Uma breve descrição do projeto e sua relevância.  
+  ![Badge de Linguagem](https://img.shields.io/badge/Linguagem-JavaScript-yellow)
+  
+- **[Outro Projeto](link-do-outro-projeto)**: Outra descrição rápida e impactante.  
+  ![Badge de Estrelas](https://img.shields.io/github/stars/Lucas-Bispo/nome-do-repositorio?style=flat-square)
+
+## 🏅 Reconhecimentos
+
+- ![Certificado AWS](https://img.shields.io/badge/AWS-Certified-232F3E?logo=amazon-aws&logoColor=white)
+- ![Certificado DevSecOps](https://img.shields.io/badge/DevSecOps-Pro-brightgreen)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Bispo&theme=dark)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lucas-Bispo.Lucas-Bispo)
+
 <div> 
     <a href="https://www.facebook.com/profile.php?id=100052386890270" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UCdxYssbutqSZOjr7BsWi9Aw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -37,3 +56,5 @@
     
   ![Snake animation](https://github.com/Lucas-Bispo/Lucas-Bispo/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+> "O código é poesia." - Anonymous
