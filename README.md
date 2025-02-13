@@ -8,7 +8,7 @@ Sou um **Analista e Desenvolvedor de Sistemas** apaixonado por tecnologia, segur
 
 ## 🌟 Sobre Mim
 
-Sou **Lucas Bispo**, um entusiasta da tecnologia com sólida experiência em atendimento ao público, resolução de problemas e gestão de projetos. Atualmente, sou **Analista e Desenvolvedor de Sistemas**, com formação transferida do IFBA e concluída na **UNICESUMAR** após iniciar no **IFBA**.
+Sou **Lucas Bispo**, um entusiasta da tecnologia com sólida experiência em atendimento ao público, resolução de problemas e gestão de projetos. Atualmente, sou **Analista e Desenvolvedor de Sistemas**, com formação transferida e concluída na **UNICESUMAR** após iniciar no **IFBA**.
 
 Desde jovem, sempre fui apaixonado por tecnologia e como ela pode ser aplicada para resolver problemas reais. Ao longo da minha carreira, desenvolvi habilidades em áreas como **segurança cibernética (DevSecOps)**, **soluções em nuvem (AWS)**, **análise de dados** e **desenvolvimento de software**. Minha abordagem é sempre focada em entregar serviços de alta qualidade com o menor custo possível, sem comprometer a excelência.
 
