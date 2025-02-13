@@ -27,6 +27,15 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 - **Status**: Concluído
 - **Descrição**: Formação voltada para o desenvolvimento de software, análise de sistemas e implementação de soluções tecnológicas.
 
+### 📚 **GitBook - Tech Guides**
+Meu **GitBook** é um espaço onde compartilho guias, tutoriais e conhecimentos sobre tecnologia, nuvem, DevOps e muito mais. É um recurso valioso para quem deseja aprender sobre arquitetura de soluções na AWS, segurança cibernética e desenvolvimento de software.
+
+📖 **Link**: [Tech Guides](https://bispo7-inside-the-cloud.gitbook.io/techguides/)
+
+> *"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende." - Leonardo da Vinci*
+
+---
+
 ## 🎖️ Certificações
 
 ### **Certificações Oficiais**
