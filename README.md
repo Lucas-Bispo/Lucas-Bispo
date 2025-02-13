@@ -68,10 +68,6 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
   <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
-### **Outras Ferramentas**
-- **Office 365**
-- **Linux**: Completo para usuário comum e desenvolvedor.
-
 <div>
   <a href="https://github.com/Lucas-Bispo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Bispo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
