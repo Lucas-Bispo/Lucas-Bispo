@@ -11,7 +11,7 @@ Sou um **Analista e Desenvolvedor de Sistemas** apaixonado por tecnologia, segur
 Sou **Lucas Bispo**, um entusiasta da tecnologia com uma paixão por inovação e desenvolvimento de soluções tecnológicas. Atualmente, estou empenhado em expandir meus conhecimentos e habilidades em áreas estratégicas para o futuro da tecnologia.
 
 Meu foco principal está em:
-- **Multi-Cloud**: Explorando e dominando plataformas como AWS, Microsoft Azure e outras para criar soluções escaláveis e eficientes.
+- **Multi-Cloud**: Explorando e dominando plataformas como AWS, Microsoft Azure, Google Cloud e outras para criar soluções escaláveis e eficientes.
 - **Inteligência Artificial (IA)**: Aspirando me tornar um especialista em IA, aplicando técnicas avançadas para resolver problemas complexos e criar sistemas inteligentes.
 - **Engenharia de Software**: Cursando Engenharia de Software para aprimorar minha compreensão do ciclo de vida do desenvolvimento de software, desde a concepção até a implementação.
 - **Licenciatura em Computação**: Estou cursando Licenciatura em Computação para fortalecer minha base teórica e didática na área de tecnologia.
