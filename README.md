@@ -6,22 +6,7 @@ Sou um **Analista e Desenvolvedor de Sistemas** apaixonado por tecnologia, segur
 
 🎮 **Desenvolvedor** | 🔒 **DevSecOps** | 🚀 **Inovador** | 💡 **Criativo** | 📊 **Dados** | 🌐 **Web** | 🛠️ **Ferramentas**
 
-## 🌟 Sobre Mim
-
-Sou **Lucas Bispo**, um entusiasta da tecnologia com sólida experiência em atendimento ao público, resolução de problemas e gestão de projetos. Atualmente, sou **Analista e Desenvolvedor de Sistemas**, com formação transferida e concluída na **UNICESUMAR** após iniciar no **IFBA**.
-
-Desde jovem, sempre fui apaixonado por tecnologia e como ela pode ser aplicada para resolver problemas reais. Ao longo da minha carreira, desenvolvi habilidades em áreas como **segurança cibernética (DevSecOps)**, **soluções em nuvem (AWS)**, **análise de dados** e **desenvolvimento de software**. Minha abordagem é sempre focada em entregar serviços de alta qualidade com o menor custo possível, sem comprometer a excelência.
-
-Atualmente, estou expandindo meus conhecimentos em:
-- **Arquitetura de Soluções na AWS**
-- **DevOps e Automação de Processos**
-- **Análise de Dados e Business Intelligence**
-
-Além disso, estou em busca de certificações importantes, como:
-- **Microsoft Azure Fundamentals (AZ-900)**
-- **Analista de Dados do Microsoft Power BI (PL-300)**
-
-Meu objetivo é continuar evoluindo como profissional, contribuindo para projetos inovadores que combinem eficiência, segurança e usabilidade. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
+## 🌟 Sobre Mim falar obre o que desejo
 
 
 <div>
