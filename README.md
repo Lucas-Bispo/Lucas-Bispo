@@ -1,13 +1,10 @@
-# Bem Vindo ao meu perfil 👋 !!
-<!-- Fundo animado estilo Matrix -->
-<div style="position: relative; width: 100%; height: 200px; overflow: hidden; background: black;">
-  <img src="https://i.imgur.com/SE7XqYj.gif" alt="Matrix Background" 
-       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.3;" />
-  <div style="position: relative; z-index: 1; color: limegreen; text-align: center; padding-top: 50px;">
-    <h1 style="font-size: 2rem; text-shadow: 0px 0px 10px limegreen;">Lucas Bispo</h1>
-    <p>Desenvolvedor em evolução para DevSecOps</p>
-  </div>
-</div>
+# 👋 Olá, eu sou Lucas Bispo
+
+> *"O código é poesia." - Anonymous*
+
+Sou um **Analista e Desenvolvedor de Sistemas** apaixonado por tecnologia, segurança cibernética (DevSecOps) e soluções em nuvem. Atualmente, estou focado em expandir meus conhecimentos em arquitetura de soluções na AWS, DevOps e análise de dados. Com experiência em atendimento ao público, resolução de problemas e gestão de projetos, busco sempre entregar serviços de alta qualidade com o menor custo possível, sem comprometer a excelência.
+
+🎮 **Desenvolvedor** | 🔒 **DevSecOps** | 🚀 **Inovador** | 💡 **Criativo** | 📊 **Dados** | 🌐 **Web** | 🛠️ **Ferramentas**
 <div>
   <a href="https://github.com/Lucas-Bispo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Bispo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
