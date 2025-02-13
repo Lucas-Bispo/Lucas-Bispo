@@ -27,27 +27,50 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 - **Status**: Concluído
 - **Descrição**: Formação voltada para o desenvolvimento de software, análise de sistemas e implementação de soluções tecnológicas.
 
-### **Cursos Complementares**
-- **Programação**:
-  - Curso de Programação em C – do básico ao avançado
-  - Curso de Programação em Java – do básico ao avançado
-  - Curso de Programação em JavaScript – do básico ao avançado
-  - Programação em Microsoft C# – do básico ao avançado
-  - React, ReactJS, React Native
-- **Infraestrutura**:
-  - Linux completo para usuário comum e desenvolvedor
-  - Git e GitHub essencial para desenvolvedores
-- **Ferramentas Corporativas**:
-  - Office 365
-- **Especializações em Segurança**:
-  - Especialização em Cibersegurança (White Hat, Pentest, Web Security, Malware Fundamentals) - HACKERSEC
-  - Boas Práticas em Cibersegurança - IBSEC (Certificação: 20393550)
+## 🎖️ Certificações
 
-### **Certificações**
-- **Arquiteto de Soluções AWS**: Certificado oficial.
+### **Certificações Oficiais**
+- **AWS Certified Solutions Architect**: Arquitetura de soluções na AWS.
 - **LGPD**: Proteção de Dados e Conformidade Legal.
-- **Microsoft Azure**: Em preparação para os exames AZ-900 (Fundamentals) e PL-300 (Analista de Dados do Power BI).
+- **IBSEC - Boas Práticas em Cibersegurança**: Identificação de vulnerabilidades e segurança de sistemas (Certificação: 20393550).
+- **HACKERSEC**: Especialização em cibersegurança:
+  - **White Hat**
+  - **Pentest**
+  - **Web Security**
+  - **Malware Fundamentals**
 
+### **Certificados em Preparação**
+- **Microsoft Azure Fundamentals (AZ-900)**: Em preparação.
+- **Analista de Dados do Microsoft Power BI (PL-300)**: Em preparação.
+
+---
+
+## 💻 Habilidades Técnicas
+
+### **Linguagens de Programação**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+### **Frameworks e Bibliotecas**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lucas-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
+
+### **Ferramentas e Plataformas**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
+
+### **Outras Ferramentas**
+- **Office 365**
+- **Linux**: Completo para usuário comum e desenvolvedor.
 
 <div>
   <a href="https://github.com/Lucas-Bispo">
