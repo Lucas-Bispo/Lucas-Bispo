@@ -30,7 +30,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 ## 🎖️ Certificações
 
 ### **Certificações Oficiais**
-- **AWS Certified Solutions Architect**: Arquitetura de soluções na AWS.
+- **AWS Certified **: Cloud Practitioner .
 - **LGPD**: Proteção de Dados e Conformidade Legal.
 - **IBSEC - Boas Práticas em Cibersegurança**: Identificação de vulnerabilidades e segurança de sistemas (Certificação: 20393550).
 - **HACKERSEC**: Especialização em cibersegurança:
