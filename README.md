@@ -8,6 +8,34 @@ Sou um **Analista e Desenvolvedor de Sistemas** apaixonado por tecnologia, segur
 
 ## 🌟 Sobre Mim falar obre o que desejo
 
+## 🎓 Vida Acadêmica
+
+### **Análise e Desenvolvimento de Sistemas**
+- **Instituição**: IFBA (transferido e concluído na UNICESUMAR)
+- **Status**: Concluído
+- **Descrição**: Formação voltada para o desenvolvimento de software, análise de sistemas e implementação de soluções tecnológicas.
+
+### **Cursos Complementares**
+- **Programação**:
+  - Curso de Programação em C – do básico ao avançado
+  - Curso de Programação em Java – do básico ao avançado
+  - Curso de Programação em JavaScript – do básico ao avançado
+  - Programação em Microsoft C# – do básico ao avançado
+  - React, ReactJS, React Native
+- **Infraestrutura**:
+  - Linux completo para usuário comum e desenvolvedor
+  - Git e GitHub essencial para desenvolvedores
+- **Ferramentas Corporativas**:
+  - Office 365
+- **Especializações em Segurança**:
+  - Especialização em Cibersegurança (White Hat, Pentest, Web Security, Malware Fundamentals) - HACKERSEC
+  - Boas Práticas em Cibersegurança - IBSEC (Certificação: 20393550)
+
+### **Certificações**
+- **Arquiteto de Soluções AWS**: Certificado oficial.
+- **LGPD**: Proteção de Dados e Conformidade Legal.
+- **Microsoft Azure**: Em preparação para os exames AZ-900 (Fundamentals) e PL-300 (Analista de Dados do Power BI).
+
 
 <div>
   <a href="https://github.com/Lucas-Bispo">
