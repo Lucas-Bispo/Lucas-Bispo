@@ -63,7 +63,8 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 
 ### **Ferramentas e Plataformas**
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-AWS" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eia.ai%2Fblog%2F0a974239-5129-48d1-8607-539f80fede85&psig=AOvVaw22EURYsLEsUM_-uaFnyN-d&ust=1739532201230000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjr3cjEwIsDFQAAAAAdAAAAABAE">
+  <img align="center" alt="Lucas-AWS" height="30" width="40" src="![image](https://github.com/user-attachments/assets/1fa08492-fba0-4f86-8a35-1c23f38be0a2)
+">
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
