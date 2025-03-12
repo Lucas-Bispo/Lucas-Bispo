@@ -72,7 +72,10 @@ Meu **GitBook** é um espaço onde compartilho guias, tutoriais e conhecimentos 
 
 ### **Ferramentas e Plataformas**
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-AWS" height="30" width="40" src="![Uploading imagem_2025-03-11_115048948.svg…]()">
+  <img align="center" alt="Lucas-AWS" height="30" width="40" src="![Uploading imagem_2025-03-11_115048948.svg…]()"
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1cdecd1f-f545-4d39-a9af-95b4946ff9bb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+>
+
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
