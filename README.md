@@ -72,8 +72,7 @@ Meu **GitBook** é um espaço onde compartilho guias, tutoriais e conhecimentos 
 
 ### **Ferramentas e Plataformas**
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-AWS" height="30" width="40" src="![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/d021196f-b6d1-498b-80ea-e5d111df1816)
- ">
+  <img align="center" alt="Lucas-AWS" height="30" width="40" src="![image](https://github.com/user-attachments/assets/af597561-19ac-435d-b8b5-051e403077e6)">
 
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
